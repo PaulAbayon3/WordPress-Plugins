@@ -14,7 +14,7 @@ If you're developing an e-commerce WordPress site & wanted to accept money remit
 5. Just click "Setup" to begin setting up the plugin.
 
 ## Comments/Suggestions
-If you have further comments/suggestions, kindly visit my website at paultech.me. Thank you. Enjoy!
+If you have further comments/suggestions, kindly visit my website at https://paultech.me. Thank you. Enjoy!
 
 ## License
 [GNU](http://www.gnu.org/licenses/gpl-2.0.html)
